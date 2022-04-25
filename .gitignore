@@ -1,0 +1,14 @@
+.idea
+.vscode
+.clangd
+.vs
+*.obj
+*.exe
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
